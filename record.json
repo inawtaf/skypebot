@@ -1,0 +1,44 @@
+	{
+		"2003902":{	
+			"Profile": {
+				"Name": "Kartikeya Fatwani",
+				"Age": 23					 
+			},
+			"Job": {
+				"Company": "Allstate",
+				"StartDate": "Aug 9th, 2017",
+				"NTID": "kfatw",
+				"Title": "Developer",
+				"Manager": "Mr. Subhobroto Ghosh",
+				"Leaves": 7
+			}
+		},
+		"20003900":{
+			"Profile": {
+				"Name": "Rishabh Bhandari",
+				"Age": 23					 
+			},
+			"Job": {
+				"Company": "Allstate",
+				"StartDate": "Aug 9th, 2017",
+				"NTID": "rbhap",
+				"Title": "Developer",
+				"Manager": "Mr. Subhobroto Ghosh",
+				"Leaves": 0
+			}
+		},
+		"20004000":{
+			"Profile": {
+				"Name": "Subhobroto Ghosh",
+				"Age": 45					 
+			},
+			"Job": {
+				"Company": "Allstate",
+				"StartDate": "Oct 15th, 2017",
+				"NTID": "subho",
+				"Title": "Head Analytics",
+				"Manager": "Mr. Chetan Garga",
+				"Leaves": 20
+			}
+		}
+	}

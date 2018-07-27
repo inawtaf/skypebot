@@ -1,0 +1,15 @@
+{
+    "name": "skypebot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "51338230-8e78-11e8-8329-4528dbb70593",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
